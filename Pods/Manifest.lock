@@ -1,0 +1,37 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.9)
+  - Kingfisher (6.3.1)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - Reachability (3.2)
+  - SkeletonView (1.29.2)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 6.3.1)
+  - Localize-Swift
+  - Reachability (~> 3.2)
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Localize-Swift
+    - Reachability
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+
+PODFILE CHECKSUM: 4119bec199526040cd619eed2c3d9d13f2998b2e
+
+COCOAPODS: 1.11.2
